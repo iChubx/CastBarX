@@ -1,0 +1,8 @@
+## Interface: 100206
+## Author: iChub
+## Version: 1
+
+
+PlayerCastBarX.lua
+TargetCastBarX.lua
+FocusCastBarX.lua
