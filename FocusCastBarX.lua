@@ -11,7 +11,7 @@ FocusFrameSpellBar:HookScript("OnEvent", function(self)
   self.TextBorder:SetAlpha(0)
   self.Text:ClearAllPoints()
   self.Text:SetPoint("TOP", self, "TOP", 0, 1.5)
-  self.Text:SetFont(STANDARD_TEXT_FONT, 9, "OUTLINE")
+  self.Text:SetFont(STANDARD_TEXT_FONT, 10, "OUTLINE")
 
 
 end)
